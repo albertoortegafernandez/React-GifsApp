@@ -1,6 +1,6 @@
 # GifsApp
 
-Created application integrate with react framework.
+Created application integrate with React.
 You can search and list your most interesting gifs.
 
 
